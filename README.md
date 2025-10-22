@@ -78,5 +78,5 @@ This project is open-source and free to use for educational purposes.
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hotel-management-system.git
+git clone https://github.com/salonigupta704/hotel-management-system.git
 cd hotel-management-system
