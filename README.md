@@ -70,7 +70,7 @@ The system generates the following outputs:
 3. Shamiksha Gupta - ADTU/0/2025-28/BCAM/057
 4. Tonmoy Deuri - ADTU/0/2025-28/BCAM/061
 5. Md.Asif Rahman - ADTU/0/2025-28/BCAM/055
-6. Raunak        - ADTU/0/2025-28/BCAM/043
+6. Raunak Krishna Rawat - ADTU/0/2025-28/BCAM/043
 
 ## License
 This project is open-source and free to use for educational purposes.
